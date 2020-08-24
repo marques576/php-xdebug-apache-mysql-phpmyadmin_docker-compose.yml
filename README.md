@@ -1,3 +1,0 @@
-# PHP/Xdebug/Docker example
-
-
